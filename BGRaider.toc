@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: BGRaider
+## Notes: Synchronized queuing for battlegrounds
+## Author: Intangir
+## SavedVariables: BGRaiderDB
+## Version: 0.01
+
+embeds.xml
+
+Core.lua
+
+#BGRaider.xml
